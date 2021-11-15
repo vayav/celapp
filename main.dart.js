@@ -38365,7 +38365,7 @@ q.aeq(p)
 break}return P.aj(null,r)}})
 return P.ak($async$tz,r)},
 aeq(a){K.ds(a,!1).eX(V.hc(new F.abH(),null,t.z))},
-J(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=b.t(j).f,h=b.t(j).f,g=b.t(j).f,f=X.amE(C.hG,new L.mE("assets/fondo.jpg",k,k),k,1),e=t.p,d=T.d5(T.W(H.a([L.m("Panel de admistracion :)",k,k,k,A.w(k,k,C.e,k,k,k,k,k,k,k,k,35.85,k,k,k,b.t(j).f.a.b/300,!0,k,k,k,k,k,k,k,k),k,k),L.m("ControlApp",k,k,k,A.w(k,k,C.e,k,k,k,k,k,k,k,k,35.85,k,k,k,b.t(j).f.a.b/300,!0,k,k,k,k,k,k,k,k),k,k)],e),C.k,C.l,C.h),k,k),c=b.t(j).f
+J(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=b.t(j).f,h=b.t(j).f,g=b.t(j).f,f=X.amE(C.hG,new L.mE("assets/fondo.jpg",k,k),k,1),e=t.p,d=T.d5(T.W(H.a([L.m("Panel de admistracion",k,k,k,A.w(k,k,C.e,k,k,k,k,k,k,k,k,35.85,k,k,k,b.t(j).f.a.b/300,!0,k,k,k,k,k,k,k,k),k,k),L.m("ControlApp",k,k,k,A.w(k,k,C.e,k,k,k,k,k,k,k,k,35.85,k,k,k,b.t(j).f.a.b/300,!0,k,k,k,k,k,k,k,k),k,k)],e),C.k,C.l,C.h),k,k),c=b.t(j).f
 c=M.K(k,d,C.f,k,k,new S.ac(k,k,k,k,k,k,C.aT),k,b.t(j).f.a.b/2,k,new V.R(0,70,0,0),k,k,c.a.a/2)
 d=b.t(j).f
 s=b.t(j).f
